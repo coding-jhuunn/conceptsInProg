@@ -1,0 +1,43 @@
+Object Orient Programming ( OOP )
+
+
+What is an iterator?
+	An iterator is an object in programming that enables traversal through a collection of elements, one at a time, without exposing the underlying representation of the collection. It provides a way to access elements sequentially and allows operations like retrieving the next element, checking if there are more elements to iterate over, and possibly removing elements during iteration. Iterators are fundamental in enabling concepts like lazy evaluation and streaming processing, where elements are processed on-the-fly as they are needed, rather than loading the entire collection into memory at once. This can lead to more efficient memory usage and better performance, especially when dealing with large datasets.
+
+
+What is a generator function?
+	It is a special type of function that allows you to control the generation of values using the yield keyword. Unlike regular functions that execute to completion and return a single value, generator functions can be paused and resumed, enabling them to yield multiple values over time.
+
+What is React and how can you best describe it?
+It is kind of controversial because some people say it is a library but some say it is a framework depending on who you ask. I see it more as a library because it makes JS to create UI interfaces.
+
+What is JSX?
+It is like the templating language for React, where you insert JS in HTML.
+
+What is Node.JS?
+Node.js itself is not a programming language but rather a runtime that allows you run Javascript on a server
+
+What is Class?
+Class is a container for a bunch of related methods and properties. Class defines the properties and behavior of a concept. Object is an actual instance of that class
+
+
+
+What is an array?
+An array is a sequence of individual data elements accessible through a single variable name. You use a zero-based numeric index to access each element of an array.
+
+What is the difference of code blocks and variable blocks in c#?
+Variable scope refers to a variable's visibility to the other code in your application. A locally scoped variable is only accessible inside of the code block in which it's defined. If you attempt to access the variable outside of the code block, you'll get a compiler error.
+
+How does a switch statement work?
+The switch statement chooses one section of code to execute from a list of possible switch sections. The selected switch section is chosen based on a pattern match with the statement's match expression.
+
+What is the do-while statement?
+The do-while statement executes a statement or a block of statements while a specified Boolean expression evaluates to true. Because that expression is evaluated after each execution of the loop, a do-while loop executes one or more times.
+
+What are Web APis?
+Application Program Interface
+They communicate over the internet
+Follow a request/response model
+
+What is a pipeline?
+The pipeline specifies how the application should respond to a request  that is received. In the pipeline, you can add the middleware you want.
